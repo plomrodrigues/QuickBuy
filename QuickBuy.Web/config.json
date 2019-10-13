@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "QuickBuyDB": "Server=DESKTOP-O79OCG9;Database=QuickBuyDB;User Id=sa;Password=masterkey;"
+  }
+}
