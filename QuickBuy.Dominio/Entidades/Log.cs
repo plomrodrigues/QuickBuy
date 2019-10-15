@@ -4,7 +4,8 @@ using System.Text;
 
 namespace QuickBuy.Dominio.Entidades
 {
-    class Log
+    public class Log
     {
+        public int Id { get; set; }
     }
 }
